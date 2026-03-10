@@ -1,4 +1,4 @@
-# Hello thank you for taking the time out of your day to see this
+# Hello! Thank you for taking the time out of your day to see this!
 
 
 ##  Featured Project
